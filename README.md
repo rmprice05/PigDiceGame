@@ -15,3 +15,6 @@ Turn-based gameplay
 Displays current and total scores
 
 Reset functionality to start a new game
+
+# Play
+https://pigdicegamerprice05.netlify.app/
